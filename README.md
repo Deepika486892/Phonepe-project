@@ -1,4 +1,4 @@
-PhonePe Transaction Insights                        
+**PhonePe Transaction Insights **                       
 
 Summary:
     This project analyzes PhonePe Pulse data by extracting JSON files, loading them into a SQL database, and performing in-depth analysis on aggregated transactions, insurance data, and user statistics across states, districts, and pin codes. Insights are visualized using Python and presented in an interactive Streamlit dashboard, enabling dynamic exploration of payment trends, regional patterns, and user behavior. The workflow showcases skills in data extraction, SQL, visualization, and analytical thinking for actionable business insights in the digital payments domain..
