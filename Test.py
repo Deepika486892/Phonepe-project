@@ -17,7 +17,7 @@ DB_CONFIG = {
     "host": "localhost",
     "user": "root",
     "password": "root",
-    "database": "Phone_pe",
+    "database": "phone_pe",
     "port": 3306,
     "cursorclass": pymysql.cursors.DictCursor
 }
@@ -473,3 +473,4 @@ if data_type == "Brand":
             st.dataframe(df_txn)
         else:
             st.warning("No data available for this selection.")
+
